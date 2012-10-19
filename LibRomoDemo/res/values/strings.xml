@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">RomoDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">LibRomo Demo</string>
+    <string name="cruise_control">Cruise Control</string>
+
+</resources>
